@@ -1,2 +1,3 @@
 # Javascript_Project
-파일 업로드하기
+# Mileage Manager
+# 202031960 박윤주
